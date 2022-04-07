@@ -1,0 +1,4 @@
+.env
+.docker/dbdata/
+dist/
+node_modules/
